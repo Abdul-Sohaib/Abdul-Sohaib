@@ -1,4 +1,4 @@
-<h1 align="center">Abdul Sohaib</h1>
+<h1 align="center">Md Abdul Sohaib</h1>
 <h3 align="center">Frontend Developer • MERN Stack & AI Enthusiast • Cloud Explorer</h3>
 
 <p align="center">

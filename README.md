@@ -1,13 +1,61 @@
-# 💫 About Me:
- 𝐇𝐄𝐋𝐋𝐎𝐖 𝐂𝐎𝐃𝐄𝐑𝐒..!<br><br>ᴍʏ ɴᴀᴍᴇ ɪ𝐬 - S O H A I B - ɪᴀᴍ ᴀ frontend ᴅᴇᴠᴇʟᴏᴘᴇʀ....😎
+<h1 align="center">Abdul Sohaib</h1>
+<h3 align="center">Frontend Developer • MERN Stack & AI Enthusiast • Cloud Explorer</h3>
 
+<p align="center">
+Building modern web products with React | Exploring AI Engineering and scalable cloud infrastructure.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/codewith.rex?igsh=MXdlbzFrczV6N3Qxbw==)]
+---
 
+## About Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <br>![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
+- Currently building full-stack applications using **React.js, TypeScript, Tailwind CSS, Node.js, MongoDB**.
+- Exploring **Machine Learning (Linear Regression at the moment)** and **Cloud Computing (AWS, Docker, CI/CD)**.
+- Passionate about AI-powered products, clean UI systems, and shipping impactful features.
 
+---
 
-[![](https://visitcount.itsvg.in/api?id=@codewithmuhilan&icon=3&color=1)](https://visitcount.itsvg.in)
+## Tech Stack
+
+**Frontend:** Next.js · React.js · TypeScript · Tailwind CSS · Redux Toolkit  
+**Backend:** Node.js · Express.js · REST API  
+**Databases:** MongoDB · MySQL  
+**AI/ML:** Python · NumPy · Pandas · Scikit-learn  
+**Cloud & DevOps:** AWS (EC2, S3) · Docker · GitHub Actions  
+**Tools:** Git · GitHub · Postman · Figma · VS Code  
+
+---
+
+## Recent Project
+
+**Examina-AI**  
+E-commerce Platform (In Development)Modern clothing e-commerce website built with Next.js, TypeScript, Tailwind CSS, integrating Razorpay & dynamic product management. 
+👉 <a href="https://github.com/Abdul-Sohaib/Driplet-Clothing-Store-Project1.git">GitHub Repository</a>
+
+---
+
+## Connect With Me
+
+<p>
+  <a href="https://www.linkedin.com/in/abdul-sohaib-a72190260">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:codes.sohaib@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/codewith.rex/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abdul-sohaib&show_icons=true&hide_border=true" height="170"/>&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-sohaib&layout=compact&hide_border=true" height="170"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=abdul-sohaib&hide_border=true" />
+</p>
